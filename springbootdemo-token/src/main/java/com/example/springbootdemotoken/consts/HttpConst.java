@@ -62,7 +62,7 @@ public class HttpConst {
      */
     public final static Integer SERVERERROE = 500;
     /**
-     * 服务器当前不能处理请求
+     * 服务器当前不能处理请求 
      */
     public final static Integer SERVERUNAVAILABLE = 503;
 
